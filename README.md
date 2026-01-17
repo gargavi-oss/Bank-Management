@@ -56,13 +56,13 @@ Bank-Management-System/
 3. Navigate to the project folder:
 
    ```bash
-   cd Bank-Management-System
+   cd Bank-Management
    ```
 
 4. Run the program:
 
    ```bash
-   python bank.py
+   python main.py
    ```
 
 ---
